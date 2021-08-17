@@ -1,0 +1,11 @@
+{
+  "Q4.1.1" : {
+    "MaeForK=200" : 0.7484570486818826
+  },
+  "Q4.1.2" : {
+    "DurationInMicrosecForComputingKNN" : 3076650.341
+  },
+  "Q4.1.3" : {
+    "DurationInMicrosecForComputingPredictions" : 6650654.259
+  }
+}

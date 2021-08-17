@@ -1,0 +1,35 @@
+{
+  "Q3.1.4" : {
+    "MaeGlobalMethod" : 0.9680487749999698,
+    "MaePerUserMethod" : 0.8501912740150409,
+    "MaePerItemMethod" : 0.8275684032889945,
+    "MaeBaselineMethod" : 0.77888846671379
+  },
+  "Q3.1.5" : {
+    "DurationInMicrosecForPerItemMethod" : {
+      "min" : 789996.7,
+      "max" : 968700.3,
+      "average" : 846726.8699999999,
+      "stddev" : 59751.95102182105
+    },
+    "RatioBetweenBaselineMethodAndGlobalMethod" : 22.76162316502945,
+    "DurationInMicrosecForGlobalMethod" : {
+      "min" : 154956.3,
+      "max" : 221478.4,
+      "average" : 176320.94999999998,
+      "stddev" : 21261.767221011993
+    },
+    "DurationInMicrosecForPerUserMethod" : {
+      "min" : 969103.7,
+      "max" : 1206763.1,
+      "average" : 1101819.48,
+      "stddev" : 66450.32082673191
+    },
+    "DurationInMicrosecForBaselineMethod" : {
+      "min" : 3817083.5,
+      "max" : 4307141.4,
+      "average" : 4013351.0199999996,
+      "stddev" : 130530.92310096341
+    }
+  }
+}

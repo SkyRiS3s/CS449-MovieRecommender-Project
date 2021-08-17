@@ -1,0 +1,6 @@
+{
+  "Q3.2.5" : {
+    "Top5WithK=30" : [ [ 59, "Three Colors: Red (1994)", 5.0 ], [ 169, "Wrong Trousers", 5.0 ], [ 198, "Nikita (La Femme Nikita) (1990)", 5.0 ], [ 206, "Akira (1988)", 5.0 ], [ 272, "Good Will Hunting (1997)", 5.0 ] ],
+    "Top5WithK=300" : [ [ 814, "Great Day in Harlem", 5.0 ], [ 848, "Murder", 5.0 ], [ 868, "Hearts and Minds (1996)", 5.0 ], [ 909, "Dangerous Beauty (1998)", 5.0 ], [ 1144, "Quiet Room", 5.0 ] ]
+  }
+}

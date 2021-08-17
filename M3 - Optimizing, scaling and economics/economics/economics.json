@@ -1,0 +1,31 @@
+{
+  "Q5.1.2" : {
+    "DailyCostICContainer_Eq_ICC.M7_RAM_Throughput" : 20.896,
+    "RatioICC.M7_over_Container" : 8.279220779220779,
+    "ContainerCheaperThanICC.M7" : false
+  },
+  "Q5.1.5" : {
+    "NbRPisForSamePriceAsICC.M7" : 369.0,
+    "RatioTotalThroughputRPis_over_ThroughputICC.M7" : 3.294642857142857,
+    "RatioTotalRAMRPis_over_RAMICC.M7" : 1.921875
+  },
+  "Q5.1.1" : {
+    "MinDaysOfRentingICC.M7" : 1715.686274509804,
+    "MinYearsOfRentingICC.M7" : 4.700510341122751
+  },
+  "Q5.1.6" : {
+    "NbUserPerGB" : 138888.8888888889,
+    "NbUserPerRPi" : 555555.5555555556,
+    "NbUserPerICC.M7" : 1.0666666666666669E8
+  },
+  "Q5.1.3" : {
+    "DailyCostICContainer_Eq_4RPi4_Throughput" : 0.184,
+    "Ratio4RPi_over_Container_MaxPower" : 0.29347826086956524,
+    "Ratio4RPi_over_Container_MinPower" : 0.058695652173913045,
+    "ContainerCheaperThan4RPi" : false
+  },
+  "Q5.1.4" : {
+    "MinDaysRentingContainerToPay4RPis_MinPower" : 16.437287665534217,
+    "MinDaysRentingContainerToPay4RPis_MaxPower" : 16.561299336360463
+  }
+}
